@@ -7,3 +7,6 @@
 # Footer
 <img width="1414" alt="Screenshot 2025-01-21 at 5 51 40 PM" src="https://github.com/user-attachments/assets/a1f00576-92b8-4dc2-809d-56ff2d9239ea" />
 
+# Original Figma Mockup
+
+https://www.figma.com/design/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0-1&p=f
